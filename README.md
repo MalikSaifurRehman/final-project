@@ -1,3 +1,5 @@
+![CI](https://github.com/MalikSaifurRehman/final-project/actions/workflows/ci-build.yaml/badge.svg)
+
 # Final Project
 
 This is the final project for my peer-graded assignment.
